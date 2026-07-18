@@ -1,0 +1,25 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Lee Jia Jing — frontend engineer</title>
+  <desc id="description">An editorial black and white masthead for the GitHub profile of Lee Jia Jing.</desc>
+  <style>
+    .paper { fill: #f5f5f3; }
+    .ink { fill: #111111; }
+    .rule { stroke: #111111; }
+    .muted { fill: #626262; }
+    text { font-family: Arial, Helvetica, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .paper { fill: #101010; }
+      .ink { fill: #f1f1ee; }
+      .rule { stroke: #f1f1ee; }
+      .muted { fill: #a7a7a3; }
+    }
+  </style>
+  <rect class="paper" width="1200" height="360"/>
+  <line class="rule" x1="48" y1="48" x2="1152" y2="48"/>
+  <text class="ink" x="48" y="86" font-size="16" font-weight="700" letter-spacing="3">LEE JIA JING / SINGAPORE</text>
+  <text class="muted" x="790" y="86" font-size="14" letter-spacing="2">FRONTEND ENGINEER / ALWAYS LEARNING</text>
+  <text class="ink" x="42" y="236" font-size="134" font-weight="800" letter-spacing="-8">WCK/PEDIA</text>
+  <line class="rule" x1="48" y1="278" x2="1152" y2="278"/>
+  <text class="ink" x="48" y="318" font-size="18" font-weight="700" letter-spacing="1.5">PRODUCT INTERFACES</text>
+  <text class="muted" x="830" y="318" font-size="18" letter-spacing="1.5">THOUGHTFUL INTERACTIONS</text>
+</svg>
