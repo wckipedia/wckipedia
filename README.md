@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="./assets/masthead.svg" width="100%" alt="Lee Jia Jing — frontend engineer based in Singapore" />
+  <img src="./assets/masthead.svg" width="100%" alt="Lee Jia Jing — wckipedia, Singapore" />
 </div>
 
-I build thoughtful interfaces around real product workflows—clear enough to use immediately, polished enough to feel considered. I am especially interested in interaction design, frontend architecture, and the details that turn an idea into a useful product.
+I'm currently pursuing a **Diploma in Information Technology at Republic Polytechnic** in Singapore.
 
-I follow technology closely because every shift is another reason to learn, test, and build. I am here to meet other people in software, exchange ideas, and collaborate on interesting work.
+I enjoy frontend development and learning how thoughtful interfaces turn ideas into useful products. I keep up with technology trends, experiment with what I learn, and build projects to develop my skills along the way.
 
-## Off the clock
+I'm here to connect with others in software, exchange ideas, and learn from what people are building.
 
-Usually keeping up with new technology, playing games, or getting a badminton session in. Based in Singapore.
+## Beyond tech
+
+When I'm away from my projects, I'm usually gaming or playing badminton.
 
 ---
 
-<sub>Open to conversations, shared ideas, and interesting collaborations.</sub>
+<sub>Always open to conversations, shared ideas, and interesting collaborations.</sub>
