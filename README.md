@@ -2,16 +2,8 @@
   <img src="./assets/masthead.svg" width="100%" alt="Lee Jia Jing — wckipedia, Singapore" />
 </div>
 
-I'm currently pursuing a **Diploma in Information Technology at Republic Polytechnic** in Singapore.
+Hi! I'm Jia Jing, currently pursuing a **Diploma in Information Technology at Republic Polytechnic** in Singapore.
 
-I enjoy frontend development and learning how thoughtful interfaces turn ideas into useful products. I keep up with technology trends, experiment with what I learn, and build projects to develop my skills along the way.
+Coding and learning are what keep me curious. I enjoy frontend development, following technology trends, experimenting with new ideas, and building projects that help me grow along the way.
 
-I'm here to connect with others in software, exchange ideas, and learn from what people are building.
-
-## Beyond tech
-
-When I'm away from my projects, I'm usually gaming or playing badminton.
-
----
-
-<sub>Always open to conversations, shared ideas, and interesting collaborations.</sub>
+When I'm away from my projects, I'm usually gaming or enjoying a session of badminton. I'm always happy to chat, share ideas, learn what others are building, or collaborate on something interesting!
